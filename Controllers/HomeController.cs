@@ -25,8 +25,8 @@ namespace First.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
-            var temp;
-            temp = "123";
+            string temp;
+            temp = "123";        
             return View();
         }
 
