@@ -1,0 +1,10 @@
+E:\soft\VSCode\vs-code\First\bin\Debug\netcoreapp2.0\First.deps.json
+E:\soft\VSCode\vs-code\First\bin\Debug\netcoreapp2.0\First.runtimeconfig.json
+E:\soft\VSCode\vs-code\First\bin\Debug\netcoreapp2.0\First.runtimeconfig.dev.json
+E:\soft\VSCode\vs-code\First\bin\Debug\netcoreapp2.0\First.dll
+E:\soft\VSCode\vs-code\First\bin\Debug\netcoreapp2.0\First.pdb
+E:\soft\VSCode\vs-code\First\obj\Debug\netcoreapp2.0\First.csproj.CoreCompileInputs.cache
+E:\soft\VSCode\vs-code\First\obj\Debug\netcoreapp2.0\First.AssemblyInfoInputs.cache
+E:\soft\VSCode\vs-code\First\obj\Debug\netcoreapp2.0\First.AssemblyInfo.cs
+E:\soft\VSCode\vs-code\First\obj\Debug\netcoreapp2.0\First.dll
+E:\soft\VSCode\vs-code\First\obj\Debug\netcoreapp2.0\First.pdb
